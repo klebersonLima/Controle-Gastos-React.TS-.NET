@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Churrosyt\\OneDrive\\Documentos\\Controle-Gastos\\api\\Controle Gastos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|c:\\users\\churrosyt\\onedrive\\documentos\\controle-gastos\\api\\controle gastos\\controlegastos\\controllers\\controlegastocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|solutionrelative:controlegastos\\controllers\\controlegastocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|c:\\users\\churrosyt\\onedrive\\documentos\\controle-gastos\\api\\controle gastos\\controlegastos\\redme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|solutionrelative:controlegastos\\redme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|c:\\users\\churrosyt\\onedrive\\documentos\\controle-gastos\\api\\controle gastos\\controlegastos\\controllers\\controlegastocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|solutionrelative:controlegastos\\controllers\\controlegastocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|c:\\users\\churrosyt\\onedrive\\documentos\\controle-gastos\\api\\controle gastos\\controlegastos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -82,11 +82,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ControleGastoController.cs",
               "DocumentMoniker": "C:\\Users\\Churrosyt\\OneDrive\\Documentos\\Controle-Gastos\\api\\Controle Gastos\\ControleGastos\\Controllers\\ControleGastoController.cs",
               "RelativeDocumentMoniker": "ControleGastos\\Controllers\\ControleGastoController.cs",
@@ -108,8 +108,7 @@
               "RelativeToolTip": "ControleGastos\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-22T23:36:17.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T23:36:17.631Z"
             },
             {
               "$type": "Document",
@@ -121,8 +120,7 @@
               "RelativeToolTip": "ControleGastos\\Models\\Categoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T23:36:08.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T23:36:08.464Z"
             },
             {
               "$type": "Document",
@@ -134,8 +132,7 @@
               "RelativeToolTip": "ControleGastos\\Models\\Pessoa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T23:36:07.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T23:36:07.64Z"
             },
             {
               "$type": "Document",
@@ -147,8 +144,7 @@
               "RelativeToolTip": "ControleGastos\\Services\\PessoaService.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAADwv4EAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T18:52:26.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-21T18:52:26.846Z"
             },
             {
               "$type": "Document",
@@ -160,8 +156,7 @@
               "RelativeToolTip": "ControleGastos\\Services\\ResultadoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T18:52:26.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-21T18:52:26.366Z"
             },
             {
               "$type": "Document",
@@ -173,8 +168,7 @@
               "RelativeToolTip": "ControleGastos\\Services\\CategoriaService.cs",
               "ViewState": "AgIAADwAAAAAAAAAAAAgwDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T18:31:57.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-21T18:31:57.71Z"
             },
             {
               "$type": "Document",
@@ -186,18 +180,17 @@
               "RelativeToolTip": "ControleGastos\\Dtos\\TransacaoDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T16:02:15.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T16:02:15.782Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "REDME.MD",
               "DocumentMoniker": "C:\\Users\\Churrosyt\\OneDrive\\Documentos\\Controle-Gastos\\api\\Controle Gastos\\ControleGastos\\REDME.MD",
               "RelativeDocumentMoniker": "ControleGastos\\REDME.MD",
               "ToolTip": "C:\\Users\\Churrosyt\\OneDrive\\Documentos\\Controle-Gastos\\api\\Controle Gastos\\ControleGastos\\REDME.MD",
               "RelativeToolTip": "ControleGastos\\REDME.MD",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAIcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-12-22T16:11:37.931Z",
               "EditorCaption": ""
@@ -212,8 +205,7 @@
               "RelativeToolTip": "ControleGastos\\Services\\TransacaoService.cs",
               "ViewState": "AgIAAE4AAAAAAAAAAAAgwBEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T18:35:36.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-21T18:35:36.049Z"
             },
             {
               "$type": "Document",
@@ -225,8 +217,7 @@
               "RelativeToolTip": "ControleGastos\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T18:51:37.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-21T18:51:37.279Z"
             },
             {
               "$type": "Document",
@@ -238,8 +229,7 @@
               "RelativeToolTip": "ControleGastos\\Dtos\\ListaGastosDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T18:54:16.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-21T18:54:16.94Z"
             },
             {
               "$type": "Document",
@@ -251,8 +241,7 @@
               "RelativeToolTip": "ControleGastos\\Program.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T03:53:21.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T03:53:21.993Z"
             },
             {
               "$type": "Document",
@@ -264,8 +253,7 @@
               "RelativeToolTip": "ControleGastos\\Models\\Transacao.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T01:47:18.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T01:47:18.694Z"
             },
             {
               "$type": "Document",
@@ -277,8 +265,7 @@
               "RelativeToolTip": "ControleGastos\\Dtos\\ListaTotalCategoriaDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T16:02:05.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T16:02:05.215Z"
             },
             {
               "$type": "Document",
@@ -290,8 +277,7 @@
               "RelativeToolTip": "ControleGastos\\Dtos\\PessoaDetalhesDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T16:02:08.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T16:02:08.374Z"
             },
             {
               "$type": "Document",
@@ -303,8 +289,7 @@
               "RelativeToolTip": "ControleGastos\\Dtos\\PessoaDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T16:02:12.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T16:02:12.245Z"
             },
             {
               "$type": "Document",
@@ -316,8 +301,7 @@
               "RelativeToolTip": "ControleGastos\\Dtos\\CategoriaDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T18:51:36.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-21T18:51:36.507Z"
             }
           ]
         }

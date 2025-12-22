@@ -1,4 +1,4 @@
-## Documentação da FrontEnd – Controle de Gastos
+## Documentação do FrontEnd – Controle de Gastos
 
 ## 1- Instalar o React e TypeScript 
 npx create-react-app front --template typescript
