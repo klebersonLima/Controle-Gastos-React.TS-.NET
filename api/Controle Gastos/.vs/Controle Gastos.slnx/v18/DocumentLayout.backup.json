@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Churrosyt\\OneDrive\\Documentos\\Controle-Gastos\\api\\Controle Gastos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|c:\\users\\churrosyt\\onedrive\\documentos\\controle-gastos\\api\\controle gastos\\controlegastos\\redme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|solutionrelative:controlegastos\\redme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|c:\\users\\churrosyt\\onedrive\\documentos\\controle-gastos\\api\\controle gastos\\controlegastos\\dtos\\transacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|solutionrelative:controlegastos\\dtos\\transacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|c:\\users\\churrosyt\\onedrive\\documentos\\controle-gastos\\api\\controle gastos\\controlegastos\\dtos\\pessoadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|solutionrelative:controlegastos\\dtos\\pessoadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|c:\\users\\churrosyt\\onedrive\\documentos\\controle-gastos\\api\\controle gastos\\controlegastos\\dtos\\pessoadetalhesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|solutionrelative:controlegastos\\dtos\\pessoadetalhesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|c:\\users\\churrosyt\\onedrive\\documentos\\controle-gastos\\api\\controle gastos\\controlegastos\\dtos\\listatotalcategoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|solutionrelative:controlegastos\\dtos\\listatotalcategoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|c:\\users\\churrosyt\\onedrive\\documentos\\controle-gastos\\api\\controle gastos\\controlegastos\\dtos\\listagastosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|solutionrelative:controlegastos\\dtos\\listagastosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|c:\\users\\churrosyt\\onedrive\\documentos\\controle-gastos\\api\\controle gastos\\controlegastos\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|solutionrelative:controlegastos\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|c:\\users\\churrosyt\\onedrive\\documentos\\controle-gastos\\api\\controle gastos\\controlegastos\\controllers\\controlegastocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|solutionrelative:controlegastos\\controllers\\controlegastocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|c:\\users\\churrosyt\\onedrive\\documentos\\controle-gastos\\api\\controle gastos\\controlegastos\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|solutionrelative:controlegastos\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|c:\\users\\churrosyt\\onedrive\\documentos\\controle-gastos\\api\\controle gastos\\controlegastos\\services\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|solutionrelative:controlegastos\\services\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|c:\\users\\churrosyt\\onedrive\\documentos\\controle-gastos\\api\\controle gastos\\controlegastos\\services\\pessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|solutionrelative:controlegastos\\services\\pessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|c:\\users\\churrosyt\\onedrive\\documentos\\controle-gastos\\api\\controle gastos\\controlegastos\\services\\resultadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|solutionrelative:controlegastos\\services\\resultadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|c:\\users\\churrosyt\\onedrive\\documentos\\controle-gastos\\api\\controle gastos\\controlegastos\\services\\transacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|solutionrelative:controlegastos\\services\\transacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|c:\\users\\churrosyt\\onedrive\\documentos\\controle-gastos\\api\\controle gastos\\controlegastos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|solutionrelative:controlegastos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|c:\\users\\churrosyt\\onedrive\\documentos\\controle-gastos\\api\\controle gastos\\controlegastos\\models\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932232BA-AB73-4C77-F512-C982027853E8}|ControleGastos\\ControleGastos.csproj|solutionrelative:controlegastos\\models\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ControleGastoController.cs",
+              "DocumentMoniker": "C:\\Users\\Churrosyt\\OneDrive\\Documentos\\Controle-Gastos\\api\\Controle Gastos\\ControleGastos\\Controllers\\ControleGastoController.cs",
+              "RelativeDocumentMoniker": "ControleGastos\\Controllers\\ControleGastoController.cs",
+              "ToolTip": "C:\\Users\\Churrosyt\\OneDrive\\Documentos\\Controle-Gastos\\api\\Controle Gastos\\ControleGastos\\Controllers\\ControleGastoController.cs",
+              "RelativeToolTip": "ControleGastos\\Controllers\\ControleGastoController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAqwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:30:59.345Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "REDME.MD",
+              "DocumentMoniker": "C:\\Users\\Churrosyt\\OneDrive\\Documentos\\Controle-Gastos\\api\\Controle Gastos\\ControleGastos\\REDME.MD",
+              "RelativeDocumentMoniker": "ControleGastos\\REDME.MD",
+              "ToolTip": "C:\\Users\\Churrosyt\\OneDrive\\Documentos\\Controle-Gastos\\api\\Controle Gastos\\ControleGastos\\REDME.MD",
+              "RelativeToolTip": "ControleGastos\\REDME.MD",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-12-22T16:11:37.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransacaoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Churrosyt\\OneDrive\\Documentos\\Controle-Gastos\\api\\Controle Gastos\\ControleGastos\\Dtos\\TransacaoDTO.cs",
+              "RelativeDocumentMoniker": "ControleGastos\\Dtos\\TransacaoDTO.cs",
+              "ToolTip": "C:\\Users\\Churrosyt\\OneDrive\\Documentos\\Controle-Gastos\\api\\Controle Gastos\\ControleGastos\\Dtos\\TransacaoDTO.cs",
+              "RelativeToolTip": "ControleGastos\\Dtos\\TransacaoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:02:15.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PessoaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Churrosyt\\OneDrive\\Documentos\\Controle-Gastos\\api\\Controle Gastos\\ControleGastos\\Dtos\\PessoaDTO.cs",
+              "RelativeDocumentMoniker": "ControleGastos\\Dtos\\PessoaDTO.cs",
+              "ToolTip": "C:\\Users\\Churrosyt\\OneDrive\\Documentos\\Controle-Gastos\\api\\Controle Gastos\\ControleGastos\\Dtos\\PessoaDTO.cs",
+              "RelativeToolTip": "ControleGastos\\Dtos\\PessoaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:02:12.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PessoaDetalhesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Churrosyt\\OneDrive\\Documentos\\Controle-Gastos\\api\\Controle Gastos\\ControleGastos\\Dtos\\PessoaDetalhesDTO.cs",
+              "RelativeDocumentMoniker": "ControleGastos\\Dtos\\PessoaDetalhesDTO.cs",
+              "ToolTip": "C:\\Users\\Churrosyt\\OneDrive\\Documentos\\Controle-Gastos\\api\\Controle Gastos\\ControleGastos\\Dtos\\PessoaDetalhesDTO.cs",
+              "RelativeToolTip": "ControleGastos\\Dtos\\PessoaDetalhesDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:02:08.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListaTotalCategoriaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Churrosyt\\OneDrive\\Documentos\\Controle-Gastos\\api\\Controle Gastos\\ControleGastos\\Dtos\\ListaTotalCategoriaDTO.cs",
+              "RelativeDocumentMoniker": "ControleGastos\\Dtos\\ListaTotalCategoriaDTO.cs",
+              "ToolTip": "C:\\Users\\Churrosyt\\OneDrive\\Documentos\\Controle-Gastos\\api\\Controle Gastos\\ControleGastos\\Dtos\\ListaTotalCategoriaDTO.cs",
+              "RelativeToolTip": "ControleGastos\\Dtos\\ListaTotalCategoriaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:02:05.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Churrosyt\\OneDrive\\Documentos\\Controle-Gastos\\api\\Controle Gastos\\ControleGastos\\Program.cs",
+              "RelativeDocumentMoniker": "ControleGastos\\Program.cs",
+              "ToolTip": "C:\\Users\\Churrosyt\\OneDrive\\Documentos\\Controle-Gastos\\api\\Controle Gastos\\ControleGastos\\Program.cs",
+              "RelativeToolTip": "ControleGastos\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T03:53:21.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListaGastosDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Churrosyt\\OneDrive\\Documentos\\Controle-Gastos\\api\\Controle Gastos\\ControleGastos\\Dtos\\ListaGastosDTO.cs",
+              "RelativeDocumentMoniker": "ControleGastos\\Dtos\\ListaGastosDTO.cs",
+              "ToolTip": "C:\\Users\\Churrosyt\\OneDrive\\Documentos\\Controle-Gastos\\api\\Controle Gastos\\ControleGastos\\Dtos\\ListaGastosDTO.cs",
+              "RelativeToolTip": "ControleGastos\\Dtos\\ListaGastosDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:54:16.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PessoaService.cs",
+              "DocumentMoniker": "C:\\Users\\Churrosyt\\OneDrive\\Documentos\\Controle-Gastos\\api\\Controle Gastos\\ControleGastos\\Services\\PessoaService.cs",
+              "RelativeDocumentMoniker": "ControleGastos\\Services\\PessoaService.cs",
+              "ToolTip": "C:\\Users\\Churrosyt\\OneDrive\\Documentos\\Controle-Gastos\\api\\Controle Gastos\\ControleGastos\\Services\\PessoaService.cs",
+              "RelativeToolTip": "ControleGastos\\Services\\PessoaService.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAQwIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:52:26.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResultadoService.cs",
+              "DocumentMoniker": "C:\\Users\\Churrosyt\\OneDrive\\Documentos\\Controle-Gastos\\api\\Controle Gastos\\ControleGastos\\Services\\ResultadoService.cs",
+              "RelativeDocumentMoniker": "ControleGastos\\Services\\ResultadoService.cs",
+              "ToolTip": "C:\\Users\\Churrosyt\\OneDrive\\Documentos\\Controle-Gastos\\api\\Controle Gastos\\ControleGastos\\Services\\ResultadoService.cs",
+              "RelativeToolTip": "ControleGastos\\Services\\ResultadoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:52:26.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Churrosyt\\OneDrive\\Documentos\\Controle-Gastos\\api\\Controle Gastos\\ControleGastos\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ControleGastos\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Churrosyt\\OneDrive\\Documentos\\Controle-Gastos\\api\\Controle Gastos\\ControleGastos\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ControleGastos\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:51:37.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Churrosyt\\OneDrive\\Documentos\\Controle-Gastos\\api\\Controle Gastos\\ControleGastos\\Dtos\\CategoriaDTO.cs",
+              "RelativeDocumentMoniker": "ControleGastos\\Dtos\\CategoriaDTO.cs",
+              "ToolTip": "C:\\Users\\Churrosyt\\OneDrive\\Documentos\\Controle-Gastos\\api\\Controle Gastos\\ControleGastos\\Dtos\\CategoriaDTO.cs",
+              "RelativeToolTip": "ControleGastos\\Dtos\\CategoriaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:51:36.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TransacaoService.cs",
+              "DocumentMoniker": "C:\\Users\\Churrosyt\\OneDrive\\Documentos\\Controle-Gastos\\api\\Controle Gastos\\ControleGastos\\Services\\TransacaoService.cs",
+              "RelativeDocumentMoniker": "ControleGastos\\Services\\TransacaoService.cs",
+              "ToolTip": "C:\\Users\\Churrosyt\\OneDrive\\Documentos\\Controle-Gastos\\api\\Controle Gastos\\ControleGastos\\Services\\TransacaoService.cs",
+              "RelativeToolTip": "ControleGastos\\Services\\TransacaoService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA6wBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:35:36.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoriaService.cs",
+              "DocumentMoniker": "C:\\Users\\Churrosyt\\OneDrive\\Documentos\\Controle-Gastos\\api\\Controle Gastos\\ControleGastos\\Services\\CategoriaService.cs",
+              "RelativeDocumentMoniker": "ControleGastos\\Services\\CategoriaService.cs",
+              "ToolTip": "C:\\Users\\Churrosyt\\OneDrive\\Documentos\\Controle-Gastos\\api\\Controle Gastos\\ControleGastos\\Services\\CategoriaService.cs",
+              "RelativeToolTip": "ControleGastos\\Services\\CategoriaService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:31:57.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Transacao.cs",
+              "DocumentMoniker": "C:\\Users\\Churrosyt\\OneDrive\\Documentos\\Controle-Gastos\\api\\Controle Gastos\\ControleGastos\\Models\\Transacao.cs",
+              "RelativeDocumentMoniker": "ControleGastos\\Models\\Transacao.cs",
+              "ToolTip": "C:\\Users\\Churrosyt\\OneDrive\\Documentos\\Controle-Gastos\\api\\Controle Gastos\\ControleGastos\\Models\\Transacao.cs",
+              "RelativeToolTip": "ControleGastos\\Models\\Transacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T01:47:18.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

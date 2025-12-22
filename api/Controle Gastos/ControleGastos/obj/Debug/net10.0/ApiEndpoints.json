@@ -1,0 +1,122 @@
+[
+  {
+    "ContainingType": "ControleGastos.Controllers.ControleGastos",
+    "Method": "CadastraCategoria",
+    "RelativePath": "api/ControleGastos/CadastraCategoria",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoriaDTO",
+        "Type": "ControleGastos.Dtos.CategoriaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControleGastos.Controllers.ControleGastos",
+    "Method": "CadastraPessoa",
+    "RelativePath": "api/ControleGastos/CadastraPessoa",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pessoaDTO",
+        "Type": "ControleGastos.Dtos.PessoaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControleGastos.Controllers.ControleGastos",
+    "Method": "CadastraTransacao",
+    "RelativePath": "api/ControleGastos/CadastraTransacao",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transacaoDTO",
+        "Type": "ControleGastos.Dtos.TransacaoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControleGastos.Controllers.ControleGastos",
+    "Method": "DeletaPessoa",
+    "RelativePath": "api/ControleGastos/DeletaPessoa/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControleGastos.Controllers.ControleGastos",
+    "Method": "ListaCategoria",
+    "RelativePath": "api/ControleGastos/ListaCategoria",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControleGastos.Controllers.ControleGastos",
+    "Method": "ListaPessoa",
+    "RelativePath": "api/ControleGastos/ListaPessoa",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControleGastos.Controllers.ControleGastos",
+    "Method": "ListaTotalCategoria",
+    "RelativePath": "api/ControleGastos/ListaTotalCategoria",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControleGastos.Controllers.ControleGastos",
+    "Method": "ListaTransacoesPorUsuario",
+    "RelativePath": "api/ControleGastos/Listatransacoes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ControleGastos.Controllers.ControleGastos",
+    "Method": "PessoaDetalhes",
+    "RelativePath": "api/ControleGastos/PessoaDetalhes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
