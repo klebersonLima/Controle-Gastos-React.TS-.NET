@@ -14,19 +14,19 @@ const CadastroPessoa = () => {
 
   // Definindo a ação dos botões
   const handleDeleteClick = (id: number) => {
-    setIdDeletar(id);           // ✅ CORRIGIDO: usa idDeletar
+    setIdDeletar(id);        
   };
 
   const handleConfirmDelete = async () => {
     if (idDeletar) {
-      await excluir(idDeletar); // ✅ CORRIGIDO: usa idDeletar
-      setIdDeletar(null);       // ✅ Fecha modal após deletar
+      await excluir(idDeletar);
+      setIdDeletar(null);       // Fecha modal após deletar
       
     }
   };
 
   const handleCancelDelete = () => {
-    setIdDeletar(null);         // ✅ Fecha modal de deletar
+    setIdDeletar(null);         // modal de deletar
   };
 
   // chamando a função de cadastrar do hooks e passando o nome e idade como argumento
