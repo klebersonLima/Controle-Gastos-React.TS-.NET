@@ -2,10 +2,6 @@ import React from "react";
 import { Transacao } from "../../types/transacao";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Table from "react-bootstrap/Table";
-import Spinner from "react-bootstrap/Spinner";
-import Alert from "react-bootstrap/Alert";
-import Badge from "react-bootstrap/Badge";
-import Form from "react-bootstrap/Form";
 import Button from "react-bootstrap/Button";
 
 // Esse componente é para listar as Transações cadastradas
@@ -20,14 +16,14 @@ interface TransacaoListProps {
   onModalOpeen: (id: number) => void;
 }
 
-// Definindo cor para receita e despesa
-const getTipoBadge = (tipo: string) => {
-  return tipo === "RECEITA" ? (
-    <Badge bg="success">RECEITA</Badge>
-  ) : (
-    <Badge bg="danger">DESPESA</Badge>
-  );
-};
+// // Definindo cor para receita e despesa
+// const getTipoBadge = (tipo: string) => {
+//   return tipo === "RECEITA" ? (
+//     <Badge bg="success">RECEITA</Badge>
+//   ) : (
+//     <Badge bg="danger">DESPESA</Badge>
+//   );
+// };
 
 export const TransacaoList: React.FC<TransacaoListProps> = ({
   transacoes,
@@ -68,9 +64,6 @@ export const TransacaoList: React.FC<TransacaoListProps> = ({
                 <tr>
                   <th>Pessoa</th>
                   <th>Idade</th>
-                  <th>Categoria</th>
-                  <th>Transação</th>
-                  <th>Tipo</th>
                   <th>Receita</th>
                   <th>Despesa</th>
                   <th>Líquido</th>
@@ -93,9 +86,6 @@ export const TransacaoList: React.FC<TransacaoListProps> = ({
                       <strong>{t.pessoa_nome}</strong>
                     </td>
                     <td>{t.pessoa_idade}</td>
-                    <td>{t.categoria_descricao}</td>
-                    <td>{t.transacao_descricao}</td>
-                    <td>{getTipoBadge(t.transacao_tipo)}</td>
                     <td className="text-success fw-bold">
                       {t.total_receita.toLocaleString("pt-BR", {
                         style: "currency",
@@ -154,7 +144,7 @@ export const TransacaoList: React.FC<TransacaoListProps> = ({
               </tbody>
               <tfoot className="table-primary">
                 <tr>
-                  <th colSpan={5} className="text-start">
+                  <th colSpan={2} className="text-start">
                     TOTAL GERAL:
                   </th>
                   <th className="text-success fw-bold">
