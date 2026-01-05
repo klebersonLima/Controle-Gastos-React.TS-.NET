@@ -1,10 +1,9 @@
-## Documentação da API – Controle de Gastos
-## Base URL: http://localhost:5042/api/ControleGastos/
-## Content-Type - application/json
+Documentação da API – Controle de Gastos
+Base URL: http://localhost:5042/api/ControleGastos/
+Content-Type - application/json
 ENDPOINTS e TABELA PostGreSQL
 =========
-## Endpoints para importação estão disponíveis na pasta Postman!
-## End
+Endpoints para importação estão disponíveis na pasta Postman!
 
  PESSOA
 ---------
